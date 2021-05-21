@@ -1,23 +1,3 @@
-# File: Blackjack.py
-
-# Description: Virtual Blackjack
-
-# Student Name: Simon Weisser
-
-# Student UT EID: saw3548
-
-# Partner Name: Alec Rubenstein
-
-# Partner UT EID: arr3634
-
-# Course Name: CS313E
-
-# Unique Number: 50725
-
-# Date Created: 2/22/19
-
-# Date Last Modified: 2/25/19
-
 import random
 
 
