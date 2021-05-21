@@ -1,19 +1,3 @@
-#  File: Bottles.py
-
-#  Description: Find largest volume of drinks without taking adjacent drinks
-
-#  Student Name: Simon Weisser
-
-#  Student UT EID: saw3548
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 5/3/19
-
-#  Date Last Modified: 5/4/19
-
 # this function takes as input a list v of positive integers
 # it returns two lists s_v and b_v, containing the contents of
 # the columns S(v) and B(v) as shown
