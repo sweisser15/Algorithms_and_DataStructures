@@ -1,19 +1,3 @@
-#  File: BST_Cipher.py
-
-#  Description: Create binary search tree with encryption key and encrypt and decrypt messages based on location of nodes.
-
-#  Student Name: Simon Weisser
-
-#  Student UT EID: saw3548
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 4/16/19
-
-#  Date Last Modified: 4/19/19
-
 class Node(object):
     def __init__(self, data):
         self.data = data
