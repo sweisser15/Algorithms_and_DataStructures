@@ -2,22 +2,6 @@
 
 # Description: Finds the shortest palindrome
 
-# Student Name: Simon Weisser
-
-# Student UT EID: saw3548
-
-# Partner Name: Alec Rubenstein
-
-# Partner UT EID: arr3634
-
-# Course Name: CS313E
-
-# Unique Number: 50725
-
-# Date Created: 2/19/19
-
-# Date Last Modified: 2/21/19
-
 def reverse_join_reversed_iter(s):
     s1 = ''.join(reversed(s))
     return s1
