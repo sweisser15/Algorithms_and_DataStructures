@@ -2,18 +2,6 @@
 
 #  Description: Test the methods of balanced binary trees.
 
-#  Student Name: Simon Weisser
-
-#  Student UT EID: saw3548
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 4/23/19
-
-#  Date Last Modified: 4/26/19
-
 class Node (object):
     def __init__(self, data):
         self.data = data
