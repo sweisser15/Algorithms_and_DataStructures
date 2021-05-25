@@ -2,18 +2,6 @@
 
 #  Description: Compute the number of solutions to the Queens Problem on a chess board of size 1x1 - 16x16.
 
-#  Student Name: Simon Weisser
-
-#  Student UT EID: saw3548
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 3/29/19
-
-#  Date Last Modified: 3/29/19
-
 class Queens(object):
     # initialize the board
     def __init__(self, n=8):
