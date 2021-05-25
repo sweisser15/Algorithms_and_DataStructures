@@ -2,18 +2,6 @@
 
 #  Description: Test deletion of edges, deletion of vertices, bfs, and dfs in graph.
 
-#  Student Name: Simon Weisser
-
-#  Student UT EID: saw3548
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 4/27/19
-
-#  Date Last Modified: 4/29/19
-
 class Stack(object):
     def __init__(self):
         self.stack = []
