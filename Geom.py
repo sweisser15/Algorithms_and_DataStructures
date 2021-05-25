@@ -2,22 +2,6 @@
 
 # Description: Performs fundamental geometry functions
 
-# Student Name: Simon Weisser
-
-# Student UT EID: saw3548
-
-# Partner Name: Alec Rubenstein
-
-# Partner UT EID: arr3634
-
-# Course Name: CS313E
-
-# Unique Number: 50725
-
-# Date Created: 2/8/19
-
-# Date Last Modified: 2/11/19
-
 import math
 
 class Point(object):
