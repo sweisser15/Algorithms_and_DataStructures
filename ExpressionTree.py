@@ -2,18 +2,6 @@
 
 #  Description: Create expression tree, evaluate tree, and print tree in pre and post order traversal.
 
-#  Student Name: Simon Weisser
-
-#  Student UT EID: saw3548
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 4/16/19
-
-#  Date Last Modified: 4/17/19
-
 # implementation of Stack class
 class Stack (object):
   def __init__ (self):
