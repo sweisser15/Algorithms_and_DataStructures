@@ -3,18 +3,6 @@
 #  Description: Finds the minimum amount of lines of code to
 #  write given productivity factor and total number of lines to code
 
-#  Student Name: Simon Weisser
-
-#  Student UT EID: saw3548
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 3/2/19
-
-#  Date Last Modified: 3/4/19
-
 def findCups(n, k, v):
 
     if n == 0:
