@@ -2,18 +2,6 @@
 
 #  Description: Find largest path through triangle using brute force, greed algorithm, divide and conquer, and dynamic programinng
 
-#  Student Name: Simon Weisser
-
-#  Student UT EID: saw3548
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 4/6/19
-
-#  Date Last Modified: 4/8/19
-
 
 from timeit import timeit
 
