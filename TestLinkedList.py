@@ -2,18 +2,6 @@
 
 #  Description: Tests the functionality of a linked list.
 
-#  Student Name: Simon Weisser
-
-#  Student UT EID: saw3548
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 4/10/19
-
-#  Date Last Modified: 4/12/19
-
 class Link(object):
     def __init__(self, data, next=None):
         self.data = data
