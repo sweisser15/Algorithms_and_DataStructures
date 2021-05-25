@@ -1,22 +1,6 @@
 # File: Cipher.py
 
-#  Description: Encrypts message by turning block of characters right and decrypts by turning block left
-
-#  Student Name: Simon Weisser
-
-#  Student UT EID: saw3548
-
-#  Partner Name: Alec Rubenstein
-
-#  Partner UT EID: arr3634
-
-#  Course Name: CS313E
-
-#  Unique Number: 50725
-
-#  Date Created: 2/3/19
-
-#  Date Last Modified: 2/8/19
+# Description: Encrypts message by turning block of characters right and decrypts by turning block left
 
 
 def findBlockSize(userWord):
