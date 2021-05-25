@@ -2,18 +2,6 @@
 
 #  Description: Compute the number of magic squares of order 4 that the user inputs.
 
-#  Student Name: Simon Weisser
-
-#  Student UT EID: saw3548
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 3/25/19
-
-#  Date Last Modified: 3/29/19
-
 import sys
 
 count = [] # store the number of squares printed as a global variable
