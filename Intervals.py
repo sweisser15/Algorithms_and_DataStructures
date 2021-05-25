@@ -1,23 +1,6 @@
 # File: Interval.py
 
-#  Description: Collapses intersecting intervals and produces output of non-intersecting intervals
-
-#  Student Name: Alec Rubenstein
-
-#  Student UT EID: arr3634
-
-#  Partner Name: Simon Weisser
-
-#  Partner UT EID: saw3548
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 2/1/19
-
-#  Date Last Modified: 2/4/19
-
+# Description: Collapses intersecting intervals and produces output of non-intersecting intervals
 
 def organizeTuples(tupleList):
 
