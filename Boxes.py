@@ -1,24 +1,3 @@
-#  File: Boxes.py
-
-#  Description: Given a list of boxes, this programs finds the largest subset(s) of boxes that can fit into one another.
-
-#  Student Name: Simon Weisser
-
-#  Student UT EID: saw3548
-
-#  Partner Name: Alec Rubenstein
-
-#  Partner UT EID: arr3634
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 3/22/19
-
-#  Date Last Modified: 2/24/19
-
-
 # check if one box fits into another
 def does_fit(box1, box2):
   return (box1[0] < box2[0]) and (box1[1] < box2[1]) and (box1[2] < box2[2])
