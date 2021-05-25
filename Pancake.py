@@ -2,23 +2,6 @@
 
 # Description: Organize a stack of pancakes by flipping pancakes
 
-# Student's Name: Simon Weisser
-
-# Student's UT EID: saw3548
-
-# Partner's Name: Alec Rubenstein
-
-# Partner's UT EID: arr3634
-
-# Course Name: CS 313E
-
-# Unique Number: 50725
-
-# Date Created: 3/6/19
-
-# Date Last Modified: 3/8/19
-
-
 # This function flips all pancakes above and including the pancake at index i
 def flipPancakes(pList, i):
     n = len(pList)
