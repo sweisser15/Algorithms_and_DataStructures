@@ -2,18 +2,6 @@
 
 #  Description: Check if graph is cyclical, and if not, return a toposort.
 
-#  Student Name: Simon Weisser
-
-#  Student UT EID: saw3548
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 5/1/19
-
-#  Date Last Modified: 5/3/19
-
 class Stack(object):
     def __init__(self):
         self.stack = []
